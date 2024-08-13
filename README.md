@@ -2,6 +2,8 @@ Link de repositorio de data set:https://epnecuador-my.sharepoint.com/:f:/g/perso
 
 Link de repositoria de programa utilizados:https://epnecuador-my.sharepoint.com/:f:/g/personal/richard_robalino_epn_edu_ec/Elx3P-1Ybj5NiJI25_RWPK4B4NMnIAQ-nv1OVix7XsR6rQ?e=nsY8O2
 
+Link de video de YouTube de proceso completo de recopilación de datos:https://www.youtube.com/watch?v=TRVjJ0TxcM0
+
 Covid
 https://app.powerbi.com/view?r=eyJrIjoiMzQzNjZhOTEtM2FjNi00ODcyLWI1MzItODQzNmEwNzEzNzgyIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9
 
