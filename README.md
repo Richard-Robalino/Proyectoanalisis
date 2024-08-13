@@ -4,6 +4,8 @@ Link de repositoria de programa utilizados:https://epnecuador-my.sharepoint.com/
 
 Link de video de YouTube de proceso completo de recopilación de datos:https://www.youtube.com/watch?v=TRVjJ0TxcM0
 
+Link de video de YouTube de  conclusiones de los dashboards:
+
 Covid
 https://app.powerbi.com/view?r=eyJrIjoiMzQzNjZhOTEtM2FjNi00ODcyLWI1MzItODQzNmEwNzEzNzgyIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9
 
