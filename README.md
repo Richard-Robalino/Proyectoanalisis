@@ -9,7 +9,7 @@ Link de video de YouTube de  conclusiones de los dashboards:
 Covid
 https://app.powerbi.com/view?r=eyJrIjoiMzQzNjZhOTEtM2FjNi00ODcyLWI1MzItODQzNmEwNzEzNzgyIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9
 
-Futbuol
+Fútbol 
 https://app.powerbi.com/view?r=eyJrIjoiYzFlMDg1NDItZjBjMy00NmM5LWE4NjMtN2E4ZTEwYjQ0MzAxIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9 
 
 Game
