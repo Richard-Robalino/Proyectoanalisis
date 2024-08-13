@@ -1,2 +1,32 @@
 Link de repositorio de data set:https://epnecuador-my.sharepoint.com/:f:/g/personal/richard_robalino_epn_edu_ec/EqSqm2cfEvNHtrLEHixrDYwBgJ9EdKoo-phrTNaOi3d5pw?e=TziRvH
 Link de repositoria de programa utilizados:https://epnecuador-my.sharepoint.com/:f:/g/personal/richard_robalino_epn_edu_ec/Elx3P-1Ybj5NiJI25_RWPK4B4NMnIAQ-nv1OVix7XsR6rQ?e=nsY8O2
+
+Covid
+https://app.powerbi.com/view?r=eyJrIjoiMzQzNjZhOTEtM2FjNi00ODcyLWI1MzItODQzNmEwNzEzNzgyIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9
+
+Futbuol
+https://app.powerbi.com/view?r=eyJrIjoiYzFlMDg1NDItZjBjMy00NmM5LWE4NjMtN2E4ZTEwYjQ0MzAxIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9 
+
+Game
+https://app.powerbi.com/view?r=eyJrIjoiZjkxNjFkOTgtZmE5MS00MzI2LTk4ZGEtM2IwMDJmZTE2MGEyIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9
+
+Empresa Ventas
+https://app.powerbi.com/view?r=eyJrIjoiYTBhZmZhOTQtMzhjNy00MWJjLTg4MjctYTM3OGRkY2VhNDI3IiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9
+
+Series de televisión
+https://app.powerbi.com/view?r=eyJrIjoiZjY5ZWI0ZmItZWYyNS00YThjLWFkNWUtMDZhYjNiZjhjZDYwIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9
+
+Ventas videojuegos
+https://app.powerbi.com/view?r=eyJrIjoiNGY2NDcwYTUtYmQxNC00Nzg1LTk3MGMtOGQ3NzU3MDM2N2U5IiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9
+
+Restaurante
+https://app.powerbi.com/view?r=eyJrIjoiZGJiYTE1OWItYmE5NC00YjhkLWIzYjUtMjU2YjZlNzBmZWQxIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9 
+ 
+Electricidad acorde a los vehículos en WA-USA
+https://app.powerbi.com/view?r=eyJrIjoiMjFiNmQzZjEtNWYyZi00MjhmLThiODgtMDA2ZTI0ZDc1OGMxIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9 
+ 
+Juego de lotería
+https://app.powerbi.com/view?r=eyJrIjoiZGJmMGJkOGYtMWNhNC00NjlhLThkMjMtNWY0OTRkZWVlNzA2IiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9
+
+Baloncesto
+https://app.powerbi.com/view?r=eyJrIjoiN2ViN2JjMmUtNGUyZC00Yzk4LTk2YzQtYWVjMzgyY2RlMGNiIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9 
